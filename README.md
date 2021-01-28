@@ -1,6 +1,6 @@
 `hello, world!`
 
-:wave: i'm nicolas, a master's student in the scientific computing group at the university of illinois
+:wave: i'm nic(k|olas), a master's student in the scientific computing group at the university of illinois
 
 i pretend to know many things about numerical analysis, pde solvers, and machine learning
 
