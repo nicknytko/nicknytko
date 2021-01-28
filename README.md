@@ -1,5 +1,9 @@
 `hello, world!`
 
+:wave: i'm nicolas, a master's student in the scientific computing group at the university of illinois
+
+i pretend to know many things about numerical analysis, pde solvers, and machine learning
+
 <!--
 **nicknytko/nicknytko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
